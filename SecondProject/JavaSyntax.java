@@ -9,3 +9,5 @@ System.out.println("Hello there");
     }
 
 }
+
+//Any code inside the main() method will be executed
