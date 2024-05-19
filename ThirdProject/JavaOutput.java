@@ -16,7 +16,10 @@ public class JavaOutput {
          */
         System.out.print("Hello World! ");
         System.out.print("I will print on the same line.");
-
+        /* They both can print numbers, but dont use quotes for outputting numbers */
+        System.out.println(3);
+        System.out.println(358);
+        System.out.println(50000);
     }
 }
 
