@@ -21,6 +21,7 @@ public class JavaVariables {
         /* use the final keyword to declare constnats */
 
         final String names = "Darius Mie";
+        System.out.println(names);
 
     }
 }
