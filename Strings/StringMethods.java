@@ -13,6 +13,5 @@ public class StringMethods {
         System.out.println(txt.toUpperCase()); // Outputs "HELLO WORLD"
         System.out.println(txt.toLowerCase()); // Outputs "hello world"
         System.out.println(txt.indexOf("locate")); // Outputs 7
-
     }
 }
