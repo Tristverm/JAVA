@@ -4,6 +4,10 @@ package Strings;
 
 public class StringMethods {
     public static void main(String[] args) {
+        String firstName = "John ";
+        String lastName = "Doe";
+        System.out.println(firstName.concat(lastName));
+
         String txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         System.out.println("The length of the txt string is: " + txt.length());
         System.out.println(txt.toUpperCase()); // Outputs "HELLO WORLD"
