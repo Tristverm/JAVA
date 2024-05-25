@@ -25,7 +25,7 @@ public class MethodOverloading {
         // instantiating
         MethodOverloading example = new MethodOverloading();
 
-        // Calling the overloaded methods
+        // Calling the overloaded methods as static methods and object methods
         print("Hello");
         example.print("Number is", 10);
         example.print(20);
